@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 @Configuration
-@ComponentScan("com.example.mod2")
+@ComponentScan("com.example.mod3")
 @EnableAspectJAutoProxy
 public class MyConfig {
 }

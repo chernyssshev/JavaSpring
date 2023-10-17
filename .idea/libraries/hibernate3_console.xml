@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hibernate3-console">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hibernate3-console.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

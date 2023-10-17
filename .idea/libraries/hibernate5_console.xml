@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hibernate5-console">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hibernate5-console.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
